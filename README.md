@@ -9,7 +9,7 @@
 ### Configure app
 
     1. Create Firebase project.
-    2. Open the project setting and copy the firebase cdn script.
+    2. Open the project setting and copy the firebase CDN script.
     3. Paste to the `config/firebase.js` file.
 
 ### Start app
