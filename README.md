@@ -12,7 +12,7 @@
 ##### install nodejs
        1 cd nodejs-app
        2 npm install
-#### Configure app
+###### Configure Nodejs app
 ###### Step 1 working with localhost
         1. install MongoDB `https://docs.mongodb.com/manual/administration/install-community/`
         2. you can also download MongoDB GUI `Robo 3t`.
@@ -27,5 +27,5 @@
         5. see images in `postman` folder.
 ###### Start Nodejs app
         $ npm start
-### Start app using Nodemon
+###### Start app using Nodemon
         $ npm run dev
