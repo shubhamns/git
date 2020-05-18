@@ -3,13 +3,13 @@
 ### Clone Project
     $ git clone https://github.com/shubhamns/mean-crud-app.git
 
-##### install angular
+#### 1. install angular
        1. cd angular-app
        2. npm install
        3. ng serve
        4. run in browser PORT = http://localhost:4200/
        
-##### install nodejs
+#### 2. install nodejs
        1 cd nodejs-app
        2 npm install
 ###### Configure Nodejs app
