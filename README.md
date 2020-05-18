@@ -7,7 +7,6 @@
        1. cd angular-app
        2. npm install
        3. ng serve
-       4. run in browser PORT = http://localhost:4200/
        
 #### 2. install nodejs
        1 cd nodejs-app
@@ -29,3 +28,8 @@
         $ npm start
 ###### Start app using Nodemon
         $ npm run dev
+        
+#### 3. start project
+       1. angular project run in browser PORT = http://localhost:4200/
+       2. nodejs project run in browser PORT = http://localhost:8080/
+
